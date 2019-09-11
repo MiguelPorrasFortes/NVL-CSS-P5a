@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>CSS Box Model</title>
+    <style>
+    img {
+         background-color: pink;
+         border: 16px solid black;
+         padding: 32px;
+         margin: 10px;    
+    } 
+    </style>
+  </head>
+  <body>
+   <h1>Benito Antonio Martínez Ocasio</h1> 
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaYwfmNDRP7ni22v1hZMCBjM_WEaZxttZ-xcgwuHkmzrRJLmZk_Q" alt="Badbunny">
+  </body>
+</html>
